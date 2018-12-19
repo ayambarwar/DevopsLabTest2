@@ -1,2 +1,2 @@
-echo "Hi, this is from gitBash"
+echo "Hi, "
 
